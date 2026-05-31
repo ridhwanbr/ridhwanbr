@@ -1,7 +1,8 @@
 baseURL: "https://ridhwanbr.github.io/"
 languageCode: "en-us"
 title: "Your Name | Security Portfolio"
-theme: "PaperMod"
+theme:
+  - github.com/adityatelange/hugo-PaperMod
 
 menu:
   main:
