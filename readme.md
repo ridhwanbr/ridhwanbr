@@ -1,4 +1,3 @@
-# Ridhwan | Cybersecurity Portfolio
 
 > **Current Role:** Device Engineer
 > **Education:** Diploma in Infocomm and Digital Media (Cybersecurity)
@@ -7,12 +6,12 @@
 ---
 
 ## 👨‍💻 Professional Summary
-I am an IT support professional currently working full-time while pursuing my part-time Cybersecurity Diploma (Semester 2). 
+I am an IT support professional currently working full-time while pursuing my part-time Cybersecurity Diploma. 
 My professional background combines hands-on enterprise desktop support with extensive experience in physical security operations, monitoring, and incident response.
 
 ---
 
-### Academic Qualifications
+## Academic Qualifications
 * **Diploma in Infocomm and Digital Media (Cybersecurity)** | *Oct 2025 – 2028*
 
 ---
