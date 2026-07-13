@@ -1,5 +1,5 @@
 
-> **Current Role:** Device Engineer
+> **Last IT Role:** Device Engineer
 > **Education:** Diploma in Infocomm and Digital Media (Cybersecurity)
 > Singapore 
 
